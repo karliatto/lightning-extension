@@ -39,4 +39,6 @@ If you want Prettier to help you by applying changes on save you have to change 
 
 ### LND
 
-We are using the [LND](https://github.com/lightningnetwork/lnd) REST [API](https://app.swaggerhub.com/apis/lnd-rest/rpc-proto/master)
+We are using the [LND](https://github.com/lightningnetwork/lnd) REST [API](https://app.swaggerhub.com/apis/lnd-rest/rpc-proto/master).
+
+You can run your LND simnet following the instructions in the [docs](https://github.com/Learn-by-doing/lightning-extension/tree/master/docs) directory.
